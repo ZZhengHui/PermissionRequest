@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PermissionRequest</string>
+    <string name="lack_of_permission">请到\\\"应用管理\\\"打开%1$s权限</string>
+</resources>
